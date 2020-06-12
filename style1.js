@@ -1,3 +1,15 @@
+// ==UserScript==
+// @name         style1
+// @namespace    http://tampermonkey.net/
+// @version      0.1
+// @description  stylesheet
+// @author       @eboodnero
+// @grant        none
+// @downloadURL https://raw.githubusercontent.com/eboody/CSSChanger/master/style1.js
+// @updateURL https://raw.githubusercontent.com/eboody/CSSChanger/master/style1.js
+// @require      ./style1.js
+// ==/UserScript==
+
 var style1 = (<><![CDATA[
 .roam-center{background: #DFDFDF !important;}
 /* change main font */
